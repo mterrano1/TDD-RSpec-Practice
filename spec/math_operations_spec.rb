@@ -1,3 +1,5 @@
+require './lib/math_operations'
+
 describe MathOperations do
 
     describe '#add' do
